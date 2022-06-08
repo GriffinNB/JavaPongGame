@@ -5,6 +5,7 @@ import javax.swing.*;
 
 public class Score extends Rectangle {
     
+    
     Score() {
 
     }
