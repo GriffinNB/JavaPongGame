@@ -15,6 +15,8 @@ public class GameFrame extends JFrame {
         this.setBackground(Color.black);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.pack();
+        this.setVisible(true);
+        this.setLocationRelativeTo(null);
 
     }
 
