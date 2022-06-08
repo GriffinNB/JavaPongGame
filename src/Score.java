@@ -5,6 +5,10 @@ import javax.swing.*;
 
 public class Score extends Rectangle {
     
+    static int GAME_WIDTH;
+    static int GAME_HEIGTH;
+    int player1;
+    int player2;
     
     Score() {
 
